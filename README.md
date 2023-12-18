@@ -1,3 +1,6 @@
 # IP
 Хранилище по ИП
-https://heronwater.github.io/IP/Lab1/aboutme.html
+
+LAB 1 https://heronwater.github.io/IP/Lab1/aboutme.html
+
+WIKI https://heronwater.github.io/IP/Wiki/heronwater.html
